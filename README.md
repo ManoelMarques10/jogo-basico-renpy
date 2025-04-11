@@ -24,7 +24,11 @@ Este jogo é um exemplo básico de uma visual novel, com:
 ---
 
 ## 🛠 Tecnologias usadas
-- Ren'Py – Engine de visual novels baseada em Python
-- Git & GitHub – Para versionamento de código
+- Ren'Py – Engine de visual novels baseada em Python.
+- Git & GitHub – Para versionamento de código.
+
+---
+
+## 📷 Imagem
 
 ---
