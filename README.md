@@ -1,4 +1,4 @@
-# 🎮 Jogo Básico em Ren'Py
+## 🎮 Jogo Básico em Ren'Py
 
 Este é um projeto simples feito com **Ren'Py**, criado com o objetivo de estudar desenvolvimento de visual novels e aprender mais sobre a engine e lógica de programação.
 
@@ -23,7 +23,7 @@ Este jogo é um exemplo básico de uma visual novel, com:
 
 ---
 
-#🛠 Tecnologias usadas
+## 🛠 Tecnologias usadas
 - Ren'Py – Engine de visual novels baseada em Python
 - Git & GitHub – Para versionamento de código
 
