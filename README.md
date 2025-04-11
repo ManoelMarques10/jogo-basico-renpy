@@ -31,4 +31,6 @@ Este jogo é um exemplo básico de uma visual novel, com:
 
 ## 📷 Imagem
 
+![Print do jogo](imagemgame.png)
+
 ---
